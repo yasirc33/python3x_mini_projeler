@@ -1,3 +1,5 @@
+# Girilen değerler arasındaki sayıların hangilerinin asal sayı olduğunu bulma
+
 deger = input("Kaça kadar ki asal sayıları arıyorsunuz? : ")
 asal = []
 
